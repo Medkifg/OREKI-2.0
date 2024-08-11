@@ -35,13 +35,13 @@ Les contributions à Zokou sont les bienvenues ! Si vous avez des idées pour de
 
 Nous remercions certaines personnes pour leur contribution :
 
-**SHUU OGATA** qui a ajouter des commandes  (Fancy , gpt , dalle ,apk) ; <br>
+**MIKU** 
 
-**CrazyKERM** qui a heberger un second site web en pour les session_id ;
+**CrazyKERM** qui a heberger un site web en pour les session_id ;
                 
 ## Licence
 
-Le Bot WhatsApp Zokou est publié sous la [Licence MIT](https://opensource.org/licenses/MIT).
+Le Bot WhatsApp oreki est publié sous la [Licence MIT](https://opensource.org/licenses/MIT).
 
 Profitez des fonctionnalités variées du Bot WhatsApp oreki pour améliorer vos conversations et rendre votre expérience WhatsApp plus intéressante !
 
