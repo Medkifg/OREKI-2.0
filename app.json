@@ -2,7 +2,7 @@
   "name":"oreki-2.0",
   "description":"bot whatsapp développé par Oreki",
   "keywords":["bot","node","baileys","whatsapp"],
-  "logo":"",
+  "logo":"https://wallpapercave.com/wp/wp9382211.jpg",
   "repository":"https://github.com/Medkifg/OREKI-2.0",
   "succes_url":"/",
   "stack":"container",
