@@ -1,6 +1,6 @@
 <p align="center"><h1>OREKI-2.0 </h1><br> </p>
 
-![banner](OREKI 2.0.png)
+
 
 ## Description
 
