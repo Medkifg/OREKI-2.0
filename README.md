@@ -1,2 +1,8 @@
-# OREKI-2.0
+# Oreki MD Bot
+
+![Oreki]([![OREKI-2-0.png](https://i.postimg.cc/VkW522Rt/OREKI-2-0.png)](https://postimg.cc/yDWVZQ26))
+
+## Description
+
 Oreki MD Bot est un bot WhatsApp multifonction conçu pour améliorer l'interaction et l'efficacité des communications via WhatsApp. Ce bot offre une variété de fonctionnalités personnalisables, permettant aux utilisateurs de gérer leurs messages, automatiser des tâches, et intégrer des services externes directement depuis l'application WhatsApp.
+
