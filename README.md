@@ -1,6 +1,7 @@
 # Oreki MD Bot
 
-![Oreki](image/oreki.png)
+![Oreki](OREKI 2.0.png)
+
 
 ## Description
 
