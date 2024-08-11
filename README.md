@@ -1,6 +1,6 @@
 <p align="center"><h1>OREKI-2.0 </h1><br> </p>
 
-![Oreki 2.0](URL-de-ton-image)
+![Oreki 2.0](https://github.com/Medkifg/OREKI-2.0/blob/main/OREKI%202.0.png?raw=true)
 
 
 ## Description
