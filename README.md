@@ -1,6 +1,6 @@
 # Oreki MD Bot
 
-[Oreki](images/oreki.png)
+[Oreki](https://telegra.ph/file/8c4c30aede905a5977cd2.jpg)
 
 ## Description
 
