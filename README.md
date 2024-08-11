@@ -43,10 +43,10 @@ Nous remercions certaines personnes pour leur contribution :
 
 Le Bot WhatsApp Zokou est publié sous la [Licence MIT](https://opensource.org/licenses/MIT).
 
-Profitez des fonctionnalités variées du Bot WhatsApp Zokou pour améliorer vos conversations et rendre votre expérience WhatsApp plus intéressante !
+Profitez des fonctionnalités variées du Bot WhatsApp oreki pour améliorer vos conversations et rendre votre expérience WhatsApp plus intéressante !
 
 
 ## Developpeur :
  
-  [**SASAKI KUZE**])  <br>
+  [**SASAKI KUZE**]<br>
   [**OREKI HOUTAROU**](https://github.com/Medkifg)
