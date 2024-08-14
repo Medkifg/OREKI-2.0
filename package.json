@@ -12,12 +12,12 @@
   "keywords": [
     "bot",
     "Baileys",
-    "Zokou",
+    "oreki",
     "whatsapp",
     "whatsapp-bot",
-    "Djalega++"
+    "oreki"
   ],
-  "author": "Djalega++",
+  "author": "Doreki+",
   "license": "ISC",
   "dependencies": {
     "@adiwajshing/keyed-db": "^0.2.4",
